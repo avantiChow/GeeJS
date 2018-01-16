@@ -1,1 +1,1 @@
-# GeeJS
+# some GEE JS examples
